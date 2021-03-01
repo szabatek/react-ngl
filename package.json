@@ -51,7 +51,7 @@
     "ngl": "2.0.0-dev.37",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "three": "^0.111.0"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "@babel/core": "^7.11.1",
